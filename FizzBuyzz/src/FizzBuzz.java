@@ -2,7 +2,7 @@
 public class FizzBuzz {
 
 	
-	
+	// re
 	public String Translate(int i) {
 	
 		
